@@ -9,7 +9,7 @@
 
 To use the App, click this link https://josh4324.github.io/Josh-Pixel-Art-Maker/
 
-##Usage
+## Usage
 
 Choose a grid height and grid width.
 The grid height is the number of rows selected
